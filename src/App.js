@@ -1,5 +1,6 @@
 import './App.css';
 import Example1 from './components/Example1';
+import Example2 from './components/Example2';
 import Intro from './components/Intro'
 /*
 Example #1: Would you risk $5 for a 80% chance of a $6.25 return? numbers are placeholders
@@ -16,6 +17,7 @@ function App() {
       </header>
       <Intro />
       <Example1 />
+      <Example2 />
     </div>
   );
 }
