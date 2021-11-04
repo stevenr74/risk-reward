@@ -13,7 +13,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Risk vs Reward</h1>
+        <h1>Risk Management</h1>
       </header>
       <Intro />
       <Example1 />
